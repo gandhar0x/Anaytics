@@ -171,3 +171,168 @@
     - **B.** manager
     - **Solution:** **A.**.
     - **Explanation:** A teacher teaches in a class, and according to the **substitution code**, 'teacher' is called 'clerk'.
+---
+
+
+---
+
+### **Unit 7: Profit and Loss**
+
+1. **A man buys an article for Rs. 27.50 and sells it for Rs. 28.50. What is his gain percentage?**
+    
+    - **Solution:** **3.63% (approx.)**.
+    - **Logic/Formula:** Profit = Selling Price (SP) - Cost Price (CP). % Profit = (Profit / CP) × 100.
+    - **Explanation:** Profit = 28.50 - 27.50 = Rs. 1.00. Gain % = (1 / 27.50) × 100 = 3.636%. **Always calculate profit/loss on the Cost Price (CP)**.
+2. **If a radio bought for Rs. 490 is sold for Rs. 465.50, find the loss percentage.**
+    
+    - **Solution:** **5%**.
+    - **Logic/Formula:** Loss = CP - SP. % Loss = (Loss / CP) × 100.
+    - **Explanation:** Loss = 490 - 465.50 = 24.50. Loss % = (24.50 / 490) × 100 = 5%.
+3. **Find the SP when CP = Rs. 56.25 and gain is 20%.**
+    
+    - **Solution:** **Rs. 67.50**.
+    - **Logic/Formula:** $SP = [\frac{100 + \text{Gain}%}{100}] \times CP$.
+    - **Explanation:** $SP = [\frac{120}{100}] \times 56.25 = 1.2 \times 56.25 = 67.50$.
+4. **Find the CP when SP = Rs. 40.60 and gain is 16%.**
+    
+    - **Solution:** **Rs. 35**.
+    - **Logic/Formula:** $CP = [\frac{100}{100 + \text{Gain}%}] \times SP$.
+    - **Explanation:** $CP = [\frac{100}{116}] \times 40.60 = 35$.
+5. **If the cost price of 18 articles equals the selling price of 12 articles, find the profit percentage.**
+    
+    - **Solution:** **50%**.
+    - **Logic/Formula:** $%$ Gain = $[\frac{m - n}{n}] \times 100$, where $m = \text{CP items}$ and $n = \text{SP items}$.
+    - **Explanation:** Gain % = $[(18 - 12) / 12] \times 100 = (6 / 12) \times 100 = 50%$.
+6. **A shopkeeper uses a 960g weight for a 1kg weight. Find his gain percentage if he sells at CP.**
+    
+    - **Solution:** **4.17%**.
+    - **Logic/Formula:** $%$ Gain = $[\frac{\text{Error}}{\text{True Value} - \text{Error}}] \times 100$.
+    - **Explanation:** Error = 1000g - 960g = 40g. Gain % = $[40 / 960] \times 100 = 4.166% \approx 4.17%$.
+7. **Find the single discount equivalent to two successive discounts of 10% and 20%.**
+    
+    - **Solution:** **28%**.
+    - **Logic/Formula:** $D = [m + n - \frac{mn}{100}]%$.
+    - **Explanation:** $D = [10 + 20 - (10 \times 20 / 100)] = 30 - 2 = 28%$.
+8. **If 'A' sells a horse to 'B' at 5% profit and 'B' sells to 'C' at 10% profit, find the resultant profit.**
+    
+    - **Solution:** **15.5%**.
+    - **Logic/Formula:** Resultant % = $[m + n + \frac{mn}{100}]%$.
+    - **Explanation:** $[5 + 10 + (5 \times 10 / 100)] = 15 + 0.5 = 15.5%$.
+9. **If CP is 96% of SP, what is the profit percentage?**
+    
+    - **Solution:** **4.17%**.
+    - **Logic:** Assume SP = 100, then CP = 96. Profit = 4.
+    - **Explanation:** Profit % = $(4 / 96) \times 100 = 4.166% \approx 4.17%$.
+10. **A toy cost Rs. 80 and is sold at a profit of Rs. 20. Find the profit rate.**
+    
+    - **Solution:** **25%**.
+    - **Explanation:** Gain/Cost × 100 = (20 / 80) × 100 = 25%.
+
+---
+
+### **Unit 8: Simple Interest (SI)**
+
+1. **Calculate SI on Rs. 3000 for 3 years at 5% p.a.**
+    
+    - **Solution:** **Rs. 450**.
+    - **Formula:** $SI = \frac{P \times R \times T}{100}$.
+    - **Explanation:** $SI = (3000 \times 5 \times 3) / 100 = 450$.
+2. **Find SI on Rs. 32,000 at 7.5% p.a. for 8 months.**
+    
+    - **Solution:** **Rs. 1,600**.
+    - **Logic:** Time must be in years. 8 months = 8/12 years.
+    - **Explanation:** $SI = (32000 \times 7.5 \times (8/12)) / 100 = 1600$.
+3. **In what time will Rs. 20,000 earn Rs. 2,000 at 8% p.a.?**
+    
+    - **Solution:** **1.25 years (1 year 3 months)**.
+    - **Formula:** $T = \frac{SI \times 100}{P \times R}$.
+    - **Explanation:** $T = (2000 \times 100) / (20000 \times 8) = 1.25$ years.
+4. **A man earns Rs. 450 interest in 3 years at 5% p.a. Find the Principal.**
+    
+    - **Solution:** **Rs. 3,000**.
+    - **Formula:** $P = \frac{SI \times 100}{R \times T}$.
+    - **Explanation:** $P = (450 \times 100) / (5 \times 3) = 3000$.
+5. **At what rate will a sum of money double itself in 4 years?**
+    
+    - **Solution:** **25%**.
+    - **Logic:** If a sum doubles, $SI = P$.
+    - **Explanation:** $R = (SI \times 100) / (P \times T)$. Since $SI = P$, $R = 100 / 4 = 25%$.
+6. **Find the amount if Rs. 2000 is lent at 3% p.a. for 4 years.**
+    
+    - **Solution:** **Rs. 2,240**.
+    - **Formula:** $Amount = P + SI$.
+    - **Explanation:** $SI = (2000 \times 3 \times 4) / 100 = 240$. $Amount = 2000 + 240 = 2240$.
+7. **If the rate increases by 2% on Rs. 500 for 3 years, find the change in SI.**
+    
+    - **Solution:** **Rs. 30**.
+    - **Formula:** $\text{Change in SI} = \frac{P \times \text{Change in R} \times T}{100}$.
+    - **Explanation:** $(500 \times 2 \times 3) / 100 = 30$.
+8. **A sum doubles in 8 years. In how many years will it treble (3 times)?**
+    
+    - **Solution:** **16 years**.
+    - **Logic:** $SI$ for doubling is $P$ (took 8 years). $SI$ for trebling is $2P$.
+    - **Explanation:** If $P$ takes 8 years, $2P$ takes $8 \times 2 = 16$ years.
+9. **Find the rate if SI on a sum is 4/9 of the principal after 6 years.**
+    
+    - **Solution:** **7.4% (approx)**.
+    - **Logic:** $SI = (4/9)P$.
+    - **Explanation:** $R = [((4/9)P \times 100) / (P \times 6)] = 400 / 54 = 7.4%$.
+10. **Find the Principal that yields Rs. 60 interest at 6% p.a. in 5 years.**
+    
+    - **Solution:** **Rs. 200**.
+    - **Explanation:** $P = (60 \times 100) / (6 \times 5) = 6000 / 30 = 200$.
+
+---
+
+### **Unit 9: Compound Interest (CI)**
+
+1. **Find the CI on Rs. 8,000 at 5% p.a. for 2 years.**
+    
+    - **Solution:** **Rs. 820**.
+    - **Formula:** $A = P(1 + R/100)^n$; $CI = A - P$.
+    - **Explanation:** $A = 8000(1.05)^2 = 8820$. $CI = 8820 - 8000 = 820$.
+2. **A sum doubles itself in 5 years at CI. How long to become 8 times?**
+    
+    - **Solution:** **15 years**.
+    - **Logic:** If $n$ times in $t$ years, it becomes $n^m$ times in $m \times t$ years.
+    - **Explanation:** $8 = 2^3$. So, $3 \times 5 = 15$ years.
+3. **Find CI on Rs. 12,000 at 16% p.a. for 9 months, compounded quarterly.**
+    
+    - **Solution:** **Rs. 1,498.37**.
+    - **Logic:** $R = 16/4 = 4$% per quarter; $n = 3$ quarters. 
+    - **Explanation:** $A = 12000(1.04)^3 = 13498.37$. $CI = 13498.37 - 12000 = 1498.37$.
+4. **Find the difference between SI and CI on Rs. 30,000 for 2 years at 5% p.a.**
+    
+    - **Solution:** **Rs. 75**.
+    - **Formula:** $CI - SI = P(R/100)^2$.
+    - **Explanation:** $30000 \times (5/100)^2 = 30000 \times 0.0025 = 75$.
+5. **Find the rate if Rs. 16,000 becomes Rs. 17,640 in 2 years.**
+    
+    - **Solution:** **5%**.
+    - **Logic:** $(A/P) = (1 + R/100)^n$.
+    - **Explanation:** $17640/16000 = 1.1025$. $\sqrt{1.1025} = 1.05$. $R = 5%$.
+6. **Find CI on Rs. 4,000 at 10% p.a. for 2.5 years.**
+    
+    - **Solution:** **Rs. 1,082**.
+    - **Formula:** $A = P(1 + R/100)^2 \times [1 + (R/2)/100]$.
+    - **Explanation:** $A = 4000(1.1)^2 \times (1.05) = 4000 \times 1.21 \times 1.05 = 5082$. $CI = 1082$.
+7. **Difference between CI and SI for 3 years at 10% is Rs. 93. Find the sum.**
+    
+    - **Solution:** **Rs. 3,000**.
+    - **Formula:** $\text{Diff} = P[(R/100)^3 + 3(R/100)^2]$.
+    - **Explanation:** $93 = P[0.001 + 0.03] = P(0.031)$. $P = 93 / 0.031 = 3000$.
+8. **Find the sum if it becomes Rs. 5,000 in 2 years and Rs. 10,000 in 4 years.**
+    
+    - **Solution:** **Rs. 2,500**.
+    - **Logic:** The growth factor $(1+R/100)^2$ is $10000/5000 = 2$.
+    - **Explanation:** $P \times (\text{growth factor}) = 5000 \Rightarrow P \times 2 = 5000 \Rightarrow P = 2500$.
+9. **Find CI on Rs. 5,000 if rates are 2%, 5%, and 10% for 3 successive years.**
+    
+    - **Solution:** **Rs. 890.50**.
+    - **Formula:** $A = P(1 + R_1/100)(1 + R_2/100)(1 + R_3/100)$.
+    - **Explanation:** $A = 5000 \times 1.02 \times 1.05 \times 1.1 = 5890.50$. $CI = 890.50$.
+10. **How many years for Rs. 1,00,000 to become Rs. 1,33,100 at 10% p.a.?**
+    
+    - **Solution:** **3 years**.
+    - **Logic:** $133100 / 100000 = 1.331$. $(1.1)^3 = 1.331$.
+    - **Explanation:** Since $(1.1)^3 = 1.331$, $n = 3$.
